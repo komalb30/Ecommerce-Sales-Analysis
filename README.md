@@ -92,8 +92,7 @@ The sales manager needed visibility into:
 ecommerce-analytics/
 │
 ├── data/
-│   ├── Online-eCommerce.csv          # Raw dataset
-│   └── ecommerce_powerbi_final.csv   # Cleaned dataset
+│   ├── Online-eCommerce.csv          # Cleaned dataset
 │
 ├── sql/
 │   └── business_queries.sql          # All 7 SQL queries
