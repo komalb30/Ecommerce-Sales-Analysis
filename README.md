@@ -92,10 +92,10 @@ The sales manager needed visibility into:
 ecommerce-analytics/
 │
 ├── data/
-│   ├── Online-eCommerce.csv          # Cleaned dataset
+│   ├── cleaned_ecommerce_data.csv      # Cleaned dataset
 │
 ├── sql/
-│   └── business_queries.sql          # All 7 SQL queries
+│   └── ecommerce_db.sql              # All SQL queries
 │
 ├── notebook/
 │   └── ecommerce_analysis.ipynb      # Jupyter notebook
