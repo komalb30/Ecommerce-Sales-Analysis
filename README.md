@@ -20,17 +20,17 @@ using MySQL, Python, and Power BI.
 
 ## Business Problem
 The sales manager needed visibility into:
-- Which products and categories drive the most profit
-- Which regions are underperforming
-- Why 75% of orders are not being delivered
-- Which supervisors are driving the most revenue
+- Which products and categories drive the most profit?
+- Which regions are underperforming?
+- Why 75% of orders are not being delivered?
+- Which supervisors are driving the most revenue?
 
 ---
 
 ## Project Workflow
 1. Defined stakeholder and problem statement
 2. Loaded raw CSV into MySQL database
-3. Wrote 7 business-driven SQL queries
+3. Wrote business-driven SQL queries
 4. Exported data to Python for cleaning and feature engineering
 5. Built 4-page interactive Power BI dashboard
 
