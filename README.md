@@ -88,6 +88,7 @@ The sales manager needed visibility into:
 ---
 
 ## Folder Structure
+```
 ecommerce-analytics/
 │
 ├── data/
@@ -104,8 +105,8 @@ ecommerce-analytics/
 │   └── ecommerce_dashboard.pbix      # Power BI file
 │
 └── README.md
+```
 
----
 ---
 
 ## How to Run
