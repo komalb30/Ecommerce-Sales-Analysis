@@ -1,4 +1,4 @@
-# 📈 E-Commerce Sales Analytics Project
+# 📈 E-Commerce Sales Analytics
 
 ## Overview
 End-to-end data analytics project on an Indian PC components
