@@ -108,6 +108,10 @@ ecommerce-analytics/
 
 ---
 Dashboard file:  
-📁 <img width="918" height="518" alt="Churn_Analysis" src="https://github.com/komalb30/Bank-Churn-Analysis/blob/main/dashboard/Churn_Analysis.png" />
+📁 
+<img width="500" height="500" alt="Churn_Analysis" src="https://github.com/komalb30/Ecommerce-Sales-Analysis/blob/main/dashboard/dashboard1.png" />
+<img width="500" height="500" alt="Churn_Analysis" src="https://github.com/komalb30/Ecommerce-Sales-Analysis/blob/main/dashboard/dashboard2.png" />
+<img width="500" height="500" alt="Churn_Analysis" src="https://github.com/komalb30/Ecommerce-Sales-Analysis/blob/main/dashboard/dashboard3.png" />
+<img width="500" height="500" alt="Churn_Analysis" src="https://github.com/komalb30/Ecommerce-Sales-Analysis/blob/main/dashboard/dashboard4.png" />
 
 
