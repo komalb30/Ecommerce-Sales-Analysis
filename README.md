@@ -101,16 +101,13 @@ ecommerce-analytics/
 │   └── ecommerce.ipynb               # Jupyter notebook
 │
 ├── dashboard/
-│   └── ecommerce_dashboard.pbix      # Power BI file
+│   └── Ecommerce_Dashboard.pbix      # Power BI file
 │
 └── README.md
 ```
 
 ---
+Dashboard file:  
+📁 <img width="918" height="518" alt="Churn_Analysis" src="https://github.com/komalb30/Bank-Churn-Analysis/blob/main/dashboard/Churn_Analysis.png" />
 
-## How to Run
-1. Load `Online-eCommerce.csv` into MySQL using the schema
-   in `sql/business_queries.sql`
-2. Run `notebook/ecommerce_analysis.ipynb` in Jupyter
-3. Open `dashboard/ecommerce_dashboard.pbix` in Power BI
-4. Connect to `ecommerce_powerbi_final.csv` if prompted
+
