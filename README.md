@@ -1,4 +1,4 @@
-# 📈 E-Commerce Sales Analytics - Sep -- Oct 2025 
+# 📈 E-Commerce Sales Analytics - Sep-Oct 2025 
 
 ## Overview
 End-to-end data analytics project on an Indian PC components
