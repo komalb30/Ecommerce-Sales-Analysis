@@ -115,6 +115,3 @@ Dashboard file:
 <img width="500" height="500" alt="Churn_Analysis" src="https://github.com/komalb30/Ecommerce-Sales-Analysis/blob/main/dashboard/dashboard3.png" />
 
 <img width="500" height="500" alt="Churn_Analysis" src="https://github.com/komalb30/Ecommerce-Sales-Analysis/blob/main/dashboard/dashboard4.png" />
-
-
-##### Sep-Oct 2025
