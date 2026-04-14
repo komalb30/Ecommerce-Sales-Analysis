@@ -16,6 +16,7 @@ using MySQL, Python, and Power BI.
 | Power BI | Dashboard and visualization |
 | Jupyter Notebook | Python analysis environment |
 
+<!--
 ---
 
 ## Business Problem
@@ -23,7 +24,7 @@ The sales manager needed visibility into:
 - Which products and categories drive the most profit?
 - Which regions are underperforming?
 - Why 75% of orders are not being delivered?
-- Which supervisors are driving the most revenue?
+- Which supervisors are driving the most revenue? -->
 
 ---
 
