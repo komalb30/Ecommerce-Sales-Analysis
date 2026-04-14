@@ -1,4 +1,4 @@
-# 📈 E-Commerce Sales Analytics - Sep-Oct 2025 
+# 📈 E-Commerce Sales Analytics
 
 ## Overview
 End-to-end data analytics project on an Indian PC components
@@ -117,3 +117,4 @@ Dashboard file:
 <img width="500" height="500" alt="Churn_Analysis" src="https://github.com/komalb30/Ecommerce-Sales-Analysis/blob/main/dashboard/dashboard4.png" />
 
 
+##### Sep-Oct 2025
