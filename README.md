@@ -111,4 +111,4 @@ ecommerce-analytics/
 Dashboard file:  
 <img width="500" height="500" alt="Churn_Analysis" src="https://github.com/komalb30/Ecommerce-Sales-Analysis/blob/main/dashboard/Page1.png" />
 
-<img width="500" height="500" alt="Churn_Analysis" src="https://github.com/komalb30/Ecommerce-Sales-Analysis/blob/main/dashboard/page2.png" />
+<img width="500" height="500" alt="Churn_Analysis" src="https://github.com/komalb30/Ecommerce-Sales-Analysis/blob/main/dashboard/Page2.png" />
